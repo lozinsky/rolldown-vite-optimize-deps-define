@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "multicoin-address-validator": "0.5.25"
+  },
+  "devDependencies": {
+    "vite": "6.3.5"
+  }
+}

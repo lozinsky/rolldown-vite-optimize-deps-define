@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev:vite": "npm --prefix vite i && npm --prefix vite run dev",
+    "dev:rolldown-vite": "npm --prefix rolldown-vite i && npm --prefix rolldown-vite run dev"
+  }
+}
